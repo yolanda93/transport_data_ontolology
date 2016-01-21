@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#0">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">100</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LINEAS CONVENCIONALES</hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#1">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">100</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LINEAS CENTROS DE TRABAJO</hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#2">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">100</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LINEAS MINIBUSES</hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#3">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">100</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LINEAS ESPECIALES </hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#4">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">100</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SERVICIOS ESPECIALES</hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#5">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">100</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">REFUERZO LINEAS METRO</hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#6">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">200</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LINEAS UNIVERSITARIAS CONVENCIONALES                                       </hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#7">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">200</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LINEAS UNIVERSITARIAS ESPECIALES                                           </hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#8">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">200</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SERVICIOS ESPECIALES UNIVERSITARIOS                                        </hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#9">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">300</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LINEAS SERVICIO NOCTURNO CONVENCIONALES                                    </hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#10">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">300</hasCodGroup>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#11">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">300</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LINEAS SERVICIO NOCTURNO DE METRO                                          </hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#12">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">300</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LINEAS SERVICIO NOCTURNO ESPECIALES                                        </hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#13">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">300</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SERVICIOS ESPECIALES SERVICIO NOCTURNO                                     </hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#14">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">400</hasCodGroup>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#15">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">400</hasCodGroup>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#16">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">600</hasCodGroup>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#17">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">600</hasCodGroup>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#18">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">800</hasCodGroup>
+	<hasDescription xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SITUACIONES ESPECIALES                                                     </hasDescription>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#19">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">600</hasCodGroup>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#20">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Group"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">600</hasCodGroup>
+</rdf:Description>
+
+</rdf:RDF>

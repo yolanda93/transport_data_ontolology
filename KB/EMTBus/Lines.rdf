@@ -1,0 +1,2305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#0">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/08/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">001</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">1</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CRISTO REY</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PROSPERIDAD</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#1">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/08/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">002</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">2</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE MANUEL BECERRA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE REINA VICTORIA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#2">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">003</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">3</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DE TOLEDO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE SAN AMARO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#3">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">30/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">004</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">4</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIUDAD LINEAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DE ARGANDA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#4">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">26/11/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2050</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">005</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">5</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DEL SOL/SEVILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ESTACION DE CHAMARTIN</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#5">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/08/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">006</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">6</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE JACINTO BENAVENTE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ORCASITAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#6">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">07/10/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">007</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">7</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE ALONSO MARTINEZ</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MANOTERAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#7">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">04/12/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">008</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">8</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LEGAZPI</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VALDEBERNARDO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#8">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/10/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">009</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">9</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SEVILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">HORTALEZA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#9">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">010</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">10</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PALOMERAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#10">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">23/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">011</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">11</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MARQUES DE VIANA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO BLANCO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#11">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">012</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">12</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CRISTO REY</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PASEO MARQUES DE ZAFRA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#12">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">07/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">014</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CONDE DE CASAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE PIO XII</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#13">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">29/05/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">015</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">15</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DEL SOL/SEVILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LA ELIPA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#14">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">19/06/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">016</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">16</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONCLOA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE PIO XII</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#15">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">017</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">17</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA MAYOR</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA PARQUE DE EUROPA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#16">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">018</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">18</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA MAYOR</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLAVERDE CRUCE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#17">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">019</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">19</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CATALUÑA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LEGAZPI</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#18">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">29/05/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">020</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">20</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DEL SOL/SEVILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PAVONES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#19">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">12/06/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">021</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">21</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PASEO DEL PINTOR ROSALES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO EL SALVADOR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#20">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">20/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">022</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LEGAZPI</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLAVERDE ALTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#21">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">02/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">023</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">23</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA MAYOR</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">EL ESPINILLO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#22">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">12/09/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">024</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">24</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA RENFE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">POZO DEL TIO RAIMUNDO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#23">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">025</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">25</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">OPERA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CASA DE CAMPO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#24">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">10/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">026</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">26</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE TIRSO DE MOLINA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">DIEGO DE LEON</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#25">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">07/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">027</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">27</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE EMBAJADORES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#26">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">028</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">28</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DE ALCALA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DE CANILLEJAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#27">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">19/06/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">029</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">29</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE FELIPE II</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MANOTERAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#28">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">12/09/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">030</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">30</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE FELIPE II</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PAVONES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#29">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">031</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA MAYOR</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ALUCHE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#30">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">12/09/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">032</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">32</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE JACINTO BENAVENTE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PAVONES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#31">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/10/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">033</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">33</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PRINCIPE PIO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CASA DE CAMPO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#32">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">034</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">34</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LAS AGUILAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#33">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/11/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">035</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">35</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA MAYOR</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CARABANCHEL ALTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#34">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">036</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">36</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CAMPAMENTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#35">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">07/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">037</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">37</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE CUATRO CAMINOS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUENTE DE VALLECAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#36">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">038</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">38</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE MANUEL BECERRA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LAS ROSAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#37">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">039</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">39</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">OPERA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA SAN IGNACIO DE LOYOLA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#38">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/11/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">040</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">40</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">TRIBUNAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ALFONSO XIII</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#39">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">041</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">41</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA MANZANARES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#40">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">12/06/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">042</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">42</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DE PEÑAGRANDE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#41">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">28/11/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">043</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">43</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE FELIPE II</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ESTRECHO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#42">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">23/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">044</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">44</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DEL CALLAO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MARQUES DE VIANA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#43">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">07/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">045</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">45</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LEGAZPI</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE LA REINA VICTORIA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#44">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">046</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">46</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SEVILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONCLOA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#45">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">25/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">047</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">47</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CARABANCHEL ALTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#46">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">09/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">048</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">48</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE MANUEL BECERRA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DE CANILLEJAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#47">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">25/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">049</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">49</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ARROYO DEL FRESNO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#48">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">050</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">50</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DEL SOL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DEL MANZANARES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#49">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">051</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">51</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DEL SOL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DEL PERU</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#50">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">19/05/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">052</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">52</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DEL SOL/SEVILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SANTAMARCA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#51">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">19/05/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">053</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">53</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DEL SOL/SEVILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ARTURO SORIA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#52">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">26/05/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">054</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">54</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA RENFE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CONGOSTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#53">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">02/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">055</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">55</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BATAN</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#54">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">056</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">56</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">DIEGO DE LEON</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUENTE DE VALLECAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#55">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">24/06/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">057</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">57</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA RENFE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ALTO DEL ARENAL</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#56">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">058</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">58</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUENTE VALLECAS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DE SANTA EUGENIA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#57">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">26/05/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">059</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">59</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA RENFE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA SAN CRISTOBAL DE LOS ANGELES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#58">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">19/08/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">060</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">60</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LA CEBADA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ORCASITAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#59">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">061</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">61</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONCLOA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">NARVAEZ</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#60">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">26/05/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">062</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">62</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PRINCIPE PIO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LOS PUERTOS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#61">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">063</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">63</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE FELIPE II</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DE SANTA EUGENIA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#62">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">064</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">64</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE CUATRO CAMINOS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ARROYO DEL FRESNO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#63">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">21/08/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">065</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">65</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE JACINTO BENAVENTE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA GRAN CAPITAN</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#64">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">16/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">066</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">66</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE CUATRO CAMINOS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">FUENCARRAL</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#65">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">067</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">67</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DE PEÑAGRANDE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#66">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">068</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">C1</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SENTIDO 1</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SENTIDO 2</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#67">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">069</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">C2</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SENTIDO 1</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SENTIDO 2</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#68">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">070</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">70</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ALSACIA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#69">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">08/11/2012</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">071</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">71</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE MANUEL BECERRA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DE ARGANDA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#70">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">26/04/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">072</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">72</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">DIEGO DE LEON</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">HORTALEZA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#71">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/10/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">073</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">73</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">DIEGO DE LEON</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CANILLAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#72">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/08/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">074</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">74</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PASEO DEL PINTOR ROSALES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PARQUE DE LAS AVENIDAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#73">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">075</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">75</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DEL CALLAO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA MANZANARES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#74">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">076</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">76</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA BEATA MARIA ANA DE JESUS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLAVERDE ALTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#75">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">077</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">77</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIUDAD LINEAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA FIN DE SEMANA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#76">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">08/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">078</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">78</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE EMBAJADORES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DE SAN FERMIN</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#77">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">20/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">079</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">79</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LEGAZPI</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLAVERDE ALTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#78">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/08/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">081</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">81</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">OPORTO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">HOSPITAL 12 DE OCTUBRE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#79">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">17/01/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">082</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">82</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONCLOA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DE PEÑAGRANDE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#80">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">083</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">83</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONCLOA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DEL PILAR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#81">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/01/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">085</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">85</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA RENFE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO LOS ROSALES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#82">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">04/03/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">086</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">86</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA RENFE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLAVERDE ALTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#83">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">10/12/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">087</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">87</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LA REPUBLICA DOMINICANA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LAS CARCAVAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#84">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">210</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">090</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">E</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DEL CONDE DE CASAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SIERRA DE GUADALUPE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#85">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">210</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">091</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">F</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE CUATRO CAMINOS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CIUDAD UNIVERSITARIA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#86">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">210</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">092</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">G</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONCLOA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CIUDAD UNIVERSITARIA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#87">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">210</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">25/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">093</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">A</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONCLOA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CAMPUS SOMOSAGUAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#88">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">210</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">25/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">096</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">H</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ALUCHE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CAMPUS DE SOMOSAGUAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#89">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">210</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">099</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">U</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE SENECA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PARANINFO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#90">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">100</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">100</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MORATALAZ</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VALDERRIVAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#91">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">01/07/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">101</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">101</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CANILLEJAS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AEROPUERTO-BARAJAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#92">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">26/05/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">102</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">102</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA RENFE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ESTACION EL POZO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#93">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">26/07/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">103</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">103</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ESTACION EL POZO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ECOBULEVAR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#94">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/03/2013</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">104</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">104</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIUDAD LINEAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MAR DE CRISTAL</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#95">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">05/12/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">105</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">105</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIUDAD LINEAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARAJAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#96">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">29/08/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">106</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">106</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE MANUEL BECERRA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VICALVARO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#97">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">107</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">107</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">HORTALEZA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#98">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">21/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">108</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">108</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">OPORTO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CEMENTERIO DE CARABANCHEL</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#99">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">109</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">109</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIUDAD LINEAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CASTILLO DE UCLES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#100">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">09/03/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE MANUEL BECERRA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CEMENTERIO DE LA ALMUDENA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#101">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">12/09/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">111</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">111</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUENTE DE VALLECAS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ENTREVIAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#102">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">05/12/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">112</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">112</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MAR DE CRISTAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DEL AEROPUERTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#103">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">26/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">113</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">113</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MENDEZ ALVARO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIUDAD LINEAL</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#104">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">23/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">114</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">114</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE AMERICA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DEL AEROPUERTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#105">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">05/12/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">115</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">115</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE AMERICA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARAJAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#106">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">116</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">116</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE EMBAJADORES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLAVERDE CRUCE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#107">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">117</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">117</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ALUCHE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA SAN IGNACIO DE LOYOLA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#108">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">21/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">118</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">118</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE EMBAJADORES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE LA PESETA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#109">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">24/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">119</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">119</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DE GOYA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#110">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">120</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">120</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LIMA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">HORTALEZA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#111">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">25/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">121</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">121</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CAMPAMENTO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">HOSPITAL 12 DE OCTUBRE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#112">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">23/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">122</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">122</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE AMERICA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CAMPO DE LAS NACIONES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#113">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">02/06/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">123</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">123</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LEGAZPI</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLAVERDE BAJO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#114">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">16/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">124</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">124</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE CUATRO CAMINOS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LACOMA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#115">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">27/02/2013</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">125</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">125</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MAR DE CRISTAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">HOSPITAL RAMON Y CAJAL</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#116">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">07/02/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">126</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">126</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">NUEVOS MINISTERIOS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DEL PILAR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#117">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">07/02/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">127</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">127</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE CUATRO CAMINOS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CIUDAD DE LOS PERIODISTAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#118">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">128</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">128</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE CUATRO CAMINOS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DEL PILAR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#119">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">19/12/2012</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">129</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">129</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MANOTERAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#120">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">04/03/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">130</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">130</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLAVERDE ALTO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VICALVARO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#121">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">25/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">131</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">131</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CAMPAMENTO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLAVERDE ALTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#122">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">07/02/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">132</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">132</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONCLOA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">HOSPITAL LA PAZ</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#123">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">133</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">133</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DEL CALLAO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MIRASIERRA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#124">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">134</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">134</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA|VAGUADA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONTECARMELO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#125">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">135</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">135</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">HOSPITAL RAMON Y CAJAL</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#126">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">28/01/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">136</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">136</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PACIFICO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MADRID SUR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#127">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">137</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">137</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CIUDAD PUERTA DE HIERRO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">FUENCARRAL</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#128">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">138</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">138</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE ESPAÑA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ALUCHE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#129">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">139</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">139</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">DEHESA DEL PRINCIPE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CARABANCHEL ALTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#130">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">12/09/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">140</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">140</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PAVONES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CANILLEJAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#131">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">11/12/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">141</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">141</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA RENFE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BUENOS AIRES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#132">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">12/09/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">142</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">142</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PAVONES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ENSANCHE DE VALLECAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#133">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">143</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">143</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE MANUEL BECERRA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLA DE VALLECAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#134">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">12/09/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">144</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">144</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PAVONES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ENTREVIAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#135">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">23/02/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">145</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">145</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DEL CONDE DE CASAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ENSANCHE DE VALLECAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#136">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/08/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">146</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">146</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DEL CALLAO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LOS MOLINOS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#137">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">04/02/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">147</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">147</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DEL CALLAO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DEL PILAR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#138">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">148</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">148</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DEL CALLAO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUENTE DE VALLECAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#139">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/11/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">149</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">149</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">TRIBUNAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#140">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">21/08/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">150</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">150</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DEL SOL/SEVILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA VIRGEN DEL CORTIJO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#141">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">05/12/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">151</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">151</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CANILLEJAS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARAJAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#142">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">152</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">152</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE FELIPE II</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MENDEZ ALVARO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#143">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">02/06/2013</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">153</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">153</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LAS ROSAS</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MAR DE CRISTAL</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#144">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">21/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">155</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">155</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA ELIPTICA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ALUCHE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#145">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">08/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">156</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">156</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE MANUEL BECERRA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LEGAZPI</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#146">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">23/08/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">160</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">160</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONCLOA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ARAVACA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#147">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">23/08/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">161</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">161</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONCLOA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ESTACION DE ARAVACA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#148">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">02/10/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">162</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">162</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONCLOA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">EL BARRIAL</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#149">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">04/03/2013</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">172</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">172</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MAR DE CRISTAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">TELEFONICA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#150">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/09/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">173</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">173</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SANCHINARRO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#151">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/09/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">174</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">174</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SANCHINARRO ESTE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#152">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">176</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">176</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LAS TABLAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#153">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">25/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">177</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">177</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MARQUES DE VIANA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#154">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/09/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">178</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">178</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONTECARMELO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#155">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">04/05/2012</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">180</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">180</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LEGAZPI</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CAJA MAGICA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#156">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">10/02/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">200</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">200</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE AMERICA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AEROPUERTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#157">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">410</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">26/05/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">203</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">203</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA RENFE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AEROPUERTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#158">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">01/04/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">210</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">210</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE MANUEL BECERRA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LA ELIPA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#159">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">215</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">215</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE FELIPE II</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PARQUE DE ROMA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#160">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">20/11/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">247</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">247</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA SAN JOSE OBRERO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#161">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">11/02/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">310</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">310</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PACIFICO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ESTACION EL POZO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#162">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">04/03/2013</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">372</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">172SF</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MAR DE CRISTAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LAS TABLAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#163">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">09/10/2013</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">401</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">E1</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA ELIPTICA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#164">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">402</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">E2</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE FELIPE II</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LAS ROSAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#165">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">08/11/2012</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">403</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">E3</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE FELIPE II</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DE ARGANDA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#166">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">120</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">27/02/2013</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">451</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">T11</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MAR DE CRISTAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PARQUE EMPRESARIAL CRISTALIA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#167">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">120</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">30/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">452</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">T23</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DE ARGANDA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">POLIGONO INDUSTRIAL DE VICALVARO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#168">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">120</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">20/01/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">453</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">T32</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE LEGAZPI</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MERCAMADRID-C.T.M</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#169">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">120</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">24/02/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">454</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">T31</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ESTACION EL POZO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SIERRA DE GUADALUPE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#170">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">120</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">09/03/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">455</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">T61</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ESTACION DE CERCANIAS DE FUENCARRAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LAS TABLAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#171">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">120</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">456</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">T41</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLAVERDE ALTO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">POLIGONO INDUSTRIAL LA RESINA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#172">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">120</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">19/07/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">457</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">T62</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ESTACION DE CHAMARTIN</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#173">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">481</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">H1</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SIERRA DE GUADALUPE</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">HOSPITAL INFANTA LEONOR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#174">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">19/06/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">501</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N1</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SANCHINARRO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#175">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/10/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">502</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N2</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">HORTALEZA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#176">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">12/03/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">503</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N3</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CANILLAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#177">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">05/12/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">504</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N4</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARAJAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#178">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">505</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N5</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA FIN DE SEMANA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#179">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">06/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">506</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N6</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LAS ROSAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#180">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">28/08/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">507</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N7</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VICALVARO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#181">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">28/03/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">508</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N8</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VALDEBERNARDO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#182">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">509</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N9</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ENSANCHE DE VALLECAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#183">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">510</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N10</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PALOMERAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#184">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">511</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N11</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MADRID SUR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#185">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">05/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">512</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N12</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DE LOS ROSALES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#186">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">07/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">513</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N13</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA SAN CRISTOBAL DE LOS ANGELES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#187">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">07/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">514</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N14</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLAVERDE ALTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#188">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">515</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N15</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ORCASUR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#189">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">20/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">516</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N16</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AVENIDA DE LA PESETA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#190">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">517</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N17</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CARABANCHEL ALTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#191">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">21/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">518</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N18</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ALUCHE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#192">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">21/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">519</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N19</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">COLONIA SAN IGNACIO DE LOYOLA</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#193">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">22/07/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">520</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N20</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DE PEÑAGRANDE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#194">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">06/02/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">521</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N21</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ARROYO DEL FRESNO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#195">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">24/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">522</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N22</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BARRIO DEL PILAR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#196">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">16/09/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">523</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N23</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MONTECARMELO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#197">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">20/08/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">524</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N24</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">LAS TABLAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#198">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">14/10/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">525</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N25</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE ALONSO MARTINEZ</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VILLA DE VALLECAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#199">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">320</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">08/05/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">526</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N26</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE ALONSO MARTINEZ</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ALUCHE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#200">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">420</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">527</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">N27</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CIBELES</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">AEROPUERTO</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#201">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">155</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/12/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">601</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">M1</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PUERTA DEL SOL/SEVILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">GLORIETA DE EMBAJADORES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#202">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">155</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">09/08/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">602</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">M2</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SEVILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ARGÜELLES</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#203">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">620</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">03/12/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">06/01/2016</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">661</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SE661</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">BUS DE LA NAVIDAD</hasNameA>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#204">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">702</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SE702</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA ELIPTICA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CEMENTERIO SUR</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#205">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">110</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">13/01/2014</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">704</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SE704</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PLAZA DE CASTILLA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">CEMENTERIO DE FUENCARRAL</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#206">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">171</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">25/11/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">01/04/2016</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">730</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SE730</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PRINCIPE PIO</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">PINAR DE SAN JOSE</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#207">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">171</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">09/12/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">20/03/2016</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">766</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SE766</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">ATOCHA</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">POLIGONO INDUSTRIAL DE VALLECAS</hasNameB>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#208">
+	<rdf:type rdf:resource="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#Linea"/>
+	<hasCodGroup xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">160</hasCodGroup>
+	<hasDateFirst xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">07/12/2015</hasDateFirst>
+	<hasDateEnd xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">31/12/2999</hasDateEnd>
+	<hasLine xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">799</hasLine>
+	<hasLabel xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">SE799</hasLabel>
+	<hasNameA xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">MAR DE CRISTAL</hasNameA>
+	<hasNameB xmlns="http://www.semanticweb.org/yolanda/ontologies/def/Transporte#">VALDEBEBAS</hasNameB>
+</rdf:Description>
+
+</rdf:RDF>

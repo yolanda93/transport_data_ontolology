@@ -1,0 +1,980 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/yolanda/ontologies/def/Transporte"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/yolanda/ontologies/def/Transporte">
+    <Prefix name="" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Annotation>
+        <AnnotationProperty IRI="#PreferedNamespaceURI"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">http://www.semanticweb.org/yolanda/ontologies/def/Transporte#</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="#date"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">14-01-2016</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="#Creator"/>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Yolanda de la Hoz Simon</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="#identifier"/>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">http://www.semanticweb.org/yolanda/ontologies/def/Transporte</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Este vocabulario se utiliza para la descripción del dominio de la infraestructura de los medios de transporte de la comunidad de madrid. Esta ontología reutliza elementos de otras ontologías como la ontología de transportes Naptan y geonames ontology.</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Transporte</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Ontología sobre transporte público</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="#hasFormat"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">http://www.semanticweb.org/yolanda/ontologies/def/Transporte.owl</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="#hasFormat"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">http://www.semanticweb.org/yolanda/ontologies/def/Transporte.html</Literal>
+    </Annotation>
+    <Declaration>
+        <DataProperty IRI="#timeinterval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MonthDay"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasInitHour"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasEndHour"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Calendario"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Metro"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasLocalization"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasCalendar"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#node_id"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasMonthDay"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasNodeId"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasCode"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#H01TREN"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#date_init"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#date"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#identifier"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EstacionTren"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Nodo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasDescription"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Description"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasPosXNode"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#street_name"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasStops"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#Creator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Season"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Date"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LineaMetro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WeekDay"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#calendar_id"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasInfraestructure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NodoFinal"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasDate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LineaBus"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeason"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#altitud"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#PosXNode"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#latitud"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasLabel"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasStopName"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#hasFormat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Underground_Station"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Street"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#date_end"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasInitDate"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#init_hour"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasPosYNode"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Linea"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasTimetable"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasWeekDay"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#H01BUS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BusZone"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#group_id"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LineaTren"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Horario"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#PosYNode"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasEndDate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Place"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasTimeInterval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NodoInicial"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#end_hour"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Group"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasGroup"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasService"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Localization"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#description"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#H01METRO"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#timeInterval"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#PreferedNamespaceURI"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#stop_name"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#endHour"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Service"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RailStation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LineaMetroLigero"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#H03METROLIGERO"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#EstacionTren"/>
+        <Class IRI="#RailStation"/>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#LineaBus"/>
+        <Class IRI="#Linea"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LineaMetro"/>
+        <Class IRI="#Linea"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LineaMetroLigero"/>
+        <Class IRI="#Linea"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LineaTren"/>
+        <Class IRI="#Linea"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NodoFinal"/>
+        <Class IRI="#Nodo"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NodoInicial"/>
+        <Class IRI="#Nodo"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#LineaBus"/>
+        <Class IRI="#LineaMetro"/>
+        <Class IRI="#LineaMetroLigero"/>
+        <Class IRI="#LineaTren"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="#Horario"/>
+        <NamedIndividual IRI="#H01BUS"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Horario"/>
+        <NamedIndividual IRI="#H01METRO"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Horario"/>
+        <NamedIndividual IRI="#H01TREN"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Horario"/>
+        <NamedIndividual IRI="#H03METROLIGERO"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#calendar_id"/>
+        <NamedIndividual IRI="#H01BUS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">01</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#end_hour"/>
+        <NamedIndividual IRI="#H01BUS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">12:00 PM</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#group_id"/>
+        <NamedIndividual IRI="#H01BUS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">01</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#init_hour"/>
+        <NamedIndividual IRI="#H01BUS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">7:00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#timeinterval"/>
+        <NamedIndividual IRI="#H01BUS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">30</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#calendar_id"/>
+        <NamedIndividual IRI="#H01METRO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">03</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#end_hour"/>
+        <NamedIndividual IRI="#H01METRO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">12:00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#group_id"/>
+        <NamedIndividual IRI="#H01METRO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">01</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#init_hour"/>
+        <NamedIndividual IRI="#H01METRO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">7:00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#timeinterval"/>
+        <NamedIndividual IRI="#H01METRO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#calendar_id"/>
+        <NamedIndividual IRI="#H01TREN"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">03</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#end_hour"/>
+        <NamedIndividual IRI="#H01TREN"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">12:00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#group_id"/>
+        <NamedIndividual IRI="#H01TREN"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">01</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#init_hour"/>
+        <NamedIndividual IRI="#H01TREN"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">6:00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#timeinterval"/>
+        <NamedIndividual IRI="#H01TREN"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#calendar_id"/>
+        <NamedIndividual IRI="#H03METROLIGERO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">01</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#date_end"/>
+        <NamedIndividual IRI="#H03METROLIGERO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">9:00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#date_init"/>
+        <NamedIndividual IRI="#H03METROLIGERO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">7:00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#group_id"/>
+        <NamedIndividual IRI="#H03METROLIGERO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">3</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#timeinterval"/>
+        <NamedIndividual IRI="#H03METROLIGERO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTimeStamp">5</Literal>
+    </DataPropertyAssertion>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasCalendar"/>
+        <Class IRI="#Horario"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasCode"/>
+        <Class IRI="#Group"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasDate"/>
+        <Class IRI="#Calendario"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasDescription"/>
+        <Class IRI="#Group"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasEndDate"/>
+        <Class IRI="#LineaBus"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasEndHour"/>
+        <Class IRI="#Horario"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasGroup"/>
+        <Class IRI="#Linea"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasInfraestructure"/>
+        <Class IRI="#LineaBus"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasInfraestructure"/>
+        <Class IRI="#LineaMetro"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasInfraestructure"/>
+        <Class IRI="#LineaMetroLigero"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasInfraestructure"/>
+        <Class IRI="#LineaTren"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasInitDate"/>
+        <Class IRI="#LineaBus"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasInitHour"/>
+        <Class IRI="#Horario"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasLabel"/>
+        <Class IRI="#LineaBus"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasLocalization"/>
+        <Class IRI="#Nodo"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasMonthDay"/>
+        <Class IRI="#Calendario"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasNodeId"/>
+        <Class IRI="#Nodo"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasPosXNode"/>
+        <Class IRI="#Nodo"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasPosYNode"/>
+        <Class IRI="#Nodo"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasSeason"/>
+        <Class IRI="#Calendario"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasService"/>
+        <Class IRI="#Linea"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasStopName"/>
+        <Class IRI="#Nodo"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasStops"/>
+        <Class IRI="#Linea"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasTimeInterval"/>
+        <Class IRI="#Horario"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasTimetable"/>
+        <Class IRI="#Linea"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasWeekDay"/>
+        <Class IRI="#Calendario"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasCalendar"/>
+        <Class IRI="#Calendario"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasService"/>
+        <Class IRI="#Service"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasStops"/>
+        <Class IRI="#Nodo"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasTimetable"/>
+        <Class IRI="#Horario"/>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="#altitud"/>
+        <Class IRI="#Localization"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#date_end"/>
+        <Class IRI="#Date"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#date_init"/>
+        <Class IRI="#Date"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#description"/>
+        <Class IRI="#Group"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#end_hour"/>
+        <Class IRI="#Horario"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#group_id"/>
+        <Class IRI="#Group"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#init_hour"/>
+        <Class IRI="#Horario"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#latitud"/>
+        <Class IRI="#Localization"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#street_name"/>
+        <Class IRI="#Street"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#timeinterval"/>
+        <Class IRI="#Horario"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#altitud"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#date_end"/>
+        <Datatype abbreviatedIRI="xsd:dateTimeStamp"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#date_init"/>
+        <Datatype abbreviatedIRI="xsd:dateTimeStamp"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#description"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#end_hour"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#group_id"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#init_hour"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#latitud"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#BusZone</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa a BusZone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#BusZone</IRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#BusZone</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BusZone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Calendario</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa un Calendario. Obtiene el calendario EMT de tipos de día aplicables a los horarios de las líneas para un rango solicitado inicio-fin.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Calendario</IRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Calendario</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Calendario</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Date</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa Date</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Date</IRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Date</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Date</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Description</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa Description</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Description</IRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Description</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Description</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Group</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A grouping of adjacent NaPTAN stops.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Group</IRI>
+        <IRI>http://transport.data.gov.uk/def/naptan</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Group</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Group</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Horario</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa un horario</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Horario</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://www.semanticweb.org/yolanda/ontologies/def/Transporte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Horario</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Horario</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Linea</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Son las líneas de los medios de transporte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Linea</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://www.semanticweb.org/yolanda/ontologies/def/Transporte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Linea</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Linea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#LineaBus</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa una línea de autobus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#LineaBus</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://www.semanticweb.org/yolanda/ontologies/def/Transporte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#LineaBus</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Linea de Bus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#LineaMetro</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa una linea de metro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#LineaMetro</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://www.semanticweb.org/yolanda/ontologies/def/Transporte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#LineaMetro</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Linea de Metro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#LineaMetroLigero</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa una linea de metro ligero</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#LineaMetroLigero</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://www.semanticweb.org/yolanda/ontologies/def/Transporte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#LineaMetroLigero</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Linea de Metro Ligero</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#LineaTren</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa una linea de tren</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#LineaTren</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://www.semanticweb.org/yolanda/ontologies/def/Transporte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#LineaTren</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Linea de Tren</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Localization</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa Localization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Localization</IRI>
+        <IRI>http://www.geonames.org/ontology</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Localization</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Localization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#MonthDay</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa MonthDay. Tipo de día aplicado a la operación de las líneas de EMT. Los datos a devolver pueden ser: Festivo (FE), Sábado (SA), Viernes (V), Laborable (LA) .</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#MonthDay</IRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#MonthDay</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">MonthDay</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Nodo</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa Nodo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Nodo</IRI>
+        <IRI>http://transport.data.gov.uk/def/naptan</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Nodo</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Nodo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#NodoFinal</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa NodoFinal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#NodoFinal</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">http://www.semanticweb.org/yolanda/ontologies/def/Transporte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#NodoFinal</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">StopB</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#NodoInicial</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa NodoInicial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#NodoInicial</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">http://www.semanticweb.org/yolanda/ontologies/def/Transporte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#NodoInicial</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">StopA</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Place</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa Place</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Place</IRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Place</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Place</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RailStation</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RailStation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Season</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa Season. Tipo de Temporada (IV) Inviertno, (SS) Semana Santa (NV) Navidad (BJ) Temporada Baja (VN) Verano.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Season</IRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Season</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Season</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Service</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Class that represents Service</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Service</IRI>
+        <IRI>http://transport.data.gov.uk/def/naptan</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Service</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Service</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Street</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa a Street</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Street</IRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Street</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Street</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Underground_Station</IRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Underground_Station</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Tram / Metro / Underground Station</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#WeekDay</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa WeekDay</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#WeekDay</IRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#WeekDay</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WeekDay</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#endHour</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clase que representa EndHour</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#endHour</IRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#endHour</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">endHour</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#timeInterval</IRI>
+        <IRI>http://transport.data.gov.uk/def/naptan</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#timeInterval</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Class that represents timeInterval</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#timeInterval</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">timeInterval</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.1.3.20151118-2017) https://github.com/owlcs/owlapi -->
+
